@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=oldTab
+IAge=2
+Name=OldTab
+Description=Enables tab switching with Ctrl + Tab 
+Authors=Mustafa Celik
+Copyright=Copyright © 2019 Mustafa Celik
+Website=www.github.com
+Version=1.0.0
